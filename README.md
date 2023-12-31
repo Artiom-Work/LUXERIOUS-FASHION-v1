@@ -1,24 +1,24 @@
-# <span style="color: palevioletred">LUXERIOUS-FASHION</span><p style="color:limegreen; font-size:15px">Учебная работа</p>
+# $\color{palevioletred}\text{LUXERIOUS-FASHION}$
 
-### <span style="color:mediumblue">**Описание работы** :</span>
+$\color{limegreen}\text{Учебная работа}$
+
+### $\color{mediumblue}\text{Описание работы :}$
 
 Внешняя часть многостраничного сайта, интернет магазина одежды.
 
 Работа на основе домашних заданий по двум курсам GeekBrains , "Веб-вёрстка HTML/CSS" и "JavaScript".
 
-🎯 <span style="color:mediumblue">Основная задача</span> - "Знакомство" с основами вёрстки.
+🎯 $\color{mediumblue}\text{Основная задача}$ - "Знакомство" с основами вёрстки.
 
 ---
 
-Макет -> [<span style="color:limegreen">figma</span>](https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?type=design&node-id=190-1194&mode=design&t=f2OxpBmtCRt6npzu-0)
+Макет -> [**Figma**](https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?type=design&node-id=190-1194&mode=design&t=f2OxpBmtCRt6npzu-0)
 
-Вёрстка -> [**<span style="color:limegreen">git pages</span>**](https://artiom-work.github.io/LUXERIOUS-FASHION-v1/)
+Вёрстка -> [**Git pages**](https://artiom-work.github.io/LUXERIOUS-FASHION-v1/)
 
 <img src="img/preview-readme-image-1.png" width="400" alt="Изображение макета страницы">
 
----
-
-### <span style="color:mediumblue">Технологии и способы вёрстки</span> :
+## $\color{mediumblue}\text{Технологии и способы вёрстки :}$
 
 ❗Figma.
 
@@ -44,11 +44,9 @@
 
 ❗Pixel-perfect.
 
----
+## $\color{mediumblue}\text{Темы , изучаемые в процессе работы над макетом :}$
 
-### <span style="color:mediumblue">Темы , изучаемые в процессе работы над макетом :</span>
-
-Курс <span style="color:limegreen"> "Веб-вёрстка HTML/CSS"</span> :
+### Курс $\color{limegreen}\text{"Веб-вёрстка HTML/CSS" :}$
 
 📌 Введение и Основы HTML.
 
@@ -66,7 +64,7 @@
 
 📌 Проверка сайта на ошибки и вспомогательные инструменты.
 
-Курс <span style="color:limegreen">"JavaScript"</span> :
+### Курс $\color{limegreen}\text{"javaScript" :}$
 
 📌 Основы JavaScript.
 
